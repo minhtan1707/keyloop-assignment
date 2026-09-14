@@ -1,0 +1,16 @@
+node_modules
+dist
+coverage
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+*.md
+PLAN.md
+KeyloopCodingChallange.pdf
+docker
+test
+docs
+.prettierrc
+eslint.config.mjs
